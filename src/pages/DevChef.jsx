@@ -245,7 +245,7 @@ const DevChef = () => {
                 <section className='s1000:w-[950px] s1230:w-[1000px] m-auto p-[20px] s1000:p-[50px] flex s600:gap-0 gap-[70px] flex-col  justify-start'>
 
 
-                    {width > 600 && <div className='m-auto scale-150 w-[40%] py-[60px]'><img className='w-full' src="/logos/DevChef Posters (7).png" alt="" /></div>}
+                    {/* {width > 600 && <div className='m-auto scale-150 w-[40%] py-[60px]'><img className='w-full' src="/logos/DevChef Posters (7).png" alt="" /></div>} */}
 
 
 
@@ -263,8 +263,8 @@ const DevChef = () => {
                             <div id='about' className='flex flex-col gap-[10px] s600:gap-[20px]'>
                                 <p className='text-[200%] font-bold '>About the event</p>
                                 <div className='flex flex-col gap-[15px]'>
-                                    <p>The DevChef Monthly DSA Coding Contest is designed to help students refine their coding skills through competitive programming. Each month, participants will tackle three problems ranging from Easy to Hard, designed to test their understanding of Data Structures and Algorithms.</p>
-                                    <p>Sharpen your skills, compete with fellow coders, and track your progress with our monthly Leaderboard. The contest format will prepare you for coding interviews and technical rounds that top companies look for during recruitment.</p>
+                                    <p>The DevChef Quarterly DSA Coding Contest is designed to help students refine their coding skills through competitive programming. In each contest, participants will tackle three problems ranging from Easy to Hard, designed to test their understanding of Data Structures and Algorithms.</p>
+                                    <p>Sharpen your skills, compete with fellow coders, and track your progress with our quarterly Leaderboard. The contest format will prepare you for coding interviews and technical rounds that top companies look for during recruitment.</p>
                                 </div>
                             </div>
 
@@ -314,9 +314,9 @@ const DevChef = () => {
 
                             <div className='flex flex-col gap-[10px] s600:gap-[20px]'>
                                 <p className='text-[200%] font-bold '>What is this about?</p>
-                                <p>Welcome to DevChef Monthly DSA Coding Contest!
-                                    Brought to you by Team Devkraft & GDSC DIT
-                                    Get ready to dive into the world of Data Structures and Algorithms (DSA) with our monthly DevChef Coding Contest, hosted at Dr. D. Y. Patil Institute of Technology, Pune. Whether you are preparing for placements or looking to enhance your problem-solving skills, this event is the perfect opportunity to strengthen your DSA expertise and compete for exciting prizes!</p>
+                                <p>Welcome to DevChef Quarterly DSA Coding Contest!
+                                    Brought to you by Team Devkraft.
+                                    Get ready to dive into the world of Data Structures and Algorithms (DSA) with our quarterly DevChef Coding Contest, hosted at Dr. D. Y. Patil Institute of Technology, Pune. Whether you are preparing for placements or looking to enhance your problem-solving skills, this event is the perfect opportunity to strengthen your DSA expertise and compete for exciting prizes!</p>
                             </div>
                         </div>
                     </motion.div>
@@ -398,7 +398,7 @@ const DevChef = () => {
                                 <div className='flex flex-col gap-[15px]'>
                                     <p>Perfect Placement Prep: Practice DSA problems and get placement-ready by honing your problem-solving skills. </p>
                                     <p>Compete & Win: Compete against the best coding minds and win cash prizes, trophies, and bragging rights!
-                                        Track Your Progress: Our monthly Leaderboard will help you stay on top of your game.</p>
+                                        Track Your Progress: Our quarterly Leaderboard will help you stay on top of your game.</p>
                                     <p>Exclusive Grand Finale: The top 30 participants of the year will qualify for the Grand Finale, where the ultimate DevChef will be crowned with a grand trophy and cash prize.</p>
                                 </div>
                             </div>
@@ -421,9 +421,9 @@ const DevChef = () => {
                             <div className='flex flex-col gap-[10px] s600:gap-[20px]'>
                                 <p className='text-[200%] font-bold '>Prizes & Leaderboard</p>
                                 <div className='flex flex-col gap-[15px]'>
-                                    <p>💰 Cash Prizes: Up to ₹1,000 for top performers.</p>
-                                    <p>🏆 Trophies: Awarded to the monthly contest winners.</p>
-                                    <p>📈 Leaderboard: Your scores will be reflected on a monthly updated leaderboard, displayed on this website. By the end of the year, the top 30 coders will be invited to the Grand Finale!
+                                    <p>💰 Cash Prizes: Up to ₹1,500 for top performers.</p>
+                                    <p>🏆 Trophies: Awarded to the quarterly contest winners.</p>
+                                    <p>📈 Leaderboard: Your scores will be reflected on a quarterly updated leaderboard, displayed on this website. By the end of the year, the top 30 coders will be invited to the Grand Finale!
                                         In the Grand Finale, the best coding minds will compete for the ultimate DevChef Trophy and a special cash prize.</p>
                                 </div>
                             </div>
@@ -458,7 +458,7 @@ const DevChef = () => {
 
 
             <footer className='w-full p-[30px] text-center text-[80%]'>
-                <p>© 2024 DevKraft. All rights reserved.</p>
+                <p>© 2025 DevKraft. All rights reserved.</p>
             </footer>
 
 
