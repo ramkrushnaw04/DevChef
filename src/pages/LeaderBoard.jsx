@@ -8,7 +8,7 @@ const LeaderBoard = () => {
 
     const [data, setData] = useState([])
     const [width, setWidth] = useState(window.innerWidth)
-    const [month, setMonth] = useState('February')
+    const [month, setMonth] = useState('September')
     const [year, setYear] = useState('2025')
     const [keys, setKeys] = useState([])
     const [searchValue, setSearchValue] = useState('')
