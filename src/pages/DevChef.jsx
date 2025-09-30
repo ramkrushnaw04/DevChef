@@ -9,7 +9,7 @@ const DevChef = () => {
     const [width, setWidth] = useState(window.innerWidth)
 
     // Make changes here only
-    const isRegestrationOpen = true
+    const isRegestrationOpen = false
     const formLink = "https://forms.gle/QKPVEFK63XKBrtby6"
     const eventDate = "23rd September 2025 (04:30 PM - 06:00 PM)"
     const eventMode = "Offline"
